@@ -8,7 +8,7 @@
   "searchSuffix": "redis",
   "azureServiceName": "Azure Cache for Redis",
   "armApiConfig": {
-    "armApiVersion": "2019-04-01"
+    "armApiVersion": "2023-08-01"
   },
   "isSearchEnabled": true,
   "keystoneDetectorId": "",
