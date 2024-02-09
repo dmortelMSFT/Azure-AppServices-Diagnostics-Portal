@@ -586,6 +586,18 @@
             "workflowsEnabled": true
         },
         {
+            "service": "ResourceService",
+            "resourceType": "Microsoft.Cache/redisEnterprise",
+            "templateFileName": "RedisEnterpriseCache",
+            "imgSrc": "assets/img/azure-icons/AzureCacheRedisEnterprise.png",
+            "versionPrefix": "",
+            "azureCommImpactedServicesList": "",
+            "pesId": "17576",
+            "searchSuffix": "AZURE CACHE FOR REDIS ENTERPRISE",
+            "displayName": "Azure Cache for Redis Enterprise",
+            "workflowsEnabled": true
+        },
+        {
              "service": "ResourceService",
              "resourceType": "Microsoft.Insights/scheduledQueryRules",
              "templateFileName": "LogSearchAlerts",
